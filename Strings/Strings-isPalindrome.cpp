@@ -15,8 +15,8 @@ int main() {
     string s;
     cin >> s;
     if (isPalindrome(s)) {
-        cout << "True";
+        cout << "true";
     } else {
-        cout << "False";
+        cout << "false";
     }
 }
